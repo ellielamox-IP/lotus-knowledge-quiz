@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">QuizLotus_4</string>
+
+    <!--Main Page-->
+        <string name="signup">Sign Up</string>
+        <string name="name">Enter Name</string>
+        <string name="email">Enter Email</string>
+        <string name="submit">Submit</string>
+
+    <!--Submit Answers-->
+    <string name="submitAnswers">Submit Answers</string>
+
+    <!--Quiz #1-->
+
+    <string name="question1">1. What is the lotus genus name?</string>
+    <string name="question1_a">True</string>
+    <string name="question1_b">False</string>
+
+    <!--Quiz #2-->
+    <string name="question2">2. T/F. You can eat all part of the lotus plant. (pick one checkbox)</string>
+    <string name="question2_a">Nelumbo</string>
+    <string name="question2_b">Lilium</string>
+    <string name="question2_c">Lepanthes</string>
+    <string name="question2_d">Ixora</string>
+
+    <!--Quiz #3-->
+        <string name="question3">3. Which of the following country national flower is the lotus flower?</string>
+        <string name="question3_a">Brazil</string>
+        <string name="question3_b">China</string>
+        <string name="question3_c">India</string>
+        <string name="question3_d">Korea</string>
+
+    <!--Quiz #4-->
+        <string name="question4">4. What is the oldest viable lotus seed that was discovered in China?</string>
+        <string name="question4_a">200-year-old </string>
+        <string name="question4_b">1300-year-old</string>
+        <string name="question4_c">500-year-old</string>
+        <string name="question4_d">2000-year-old</string>
+
+    <!--Quiz #5-->
+        <string name="question5">5. How many species of the Nelumbo plant are there?</string>
+        <string name="question5_a">20</string>
+        <string name="question5_b">10</string>
+        <string name="question5_c">5</string>
+        <string name="question5_d">2</string>
+
+    <!--Enter Field-->
+        <string name="nameerror">Enter a valid name</string>
+        <string name="emailerror">Enter a valid email</string>
+
+
+    <!-->Messages-->
+    <string name="yourscore">Your score is </string>
+    <string name="numberoutof"> of 5 </string>
+
+
+</resources>
